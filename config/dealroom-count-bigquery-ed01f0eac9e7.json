@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "rising-method-281311",
+  "private_key_id": "ed01f0eac9e753633fe2e04e67932519dbd7867d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDRCppNNUa5ZQkI\n/m0CKAGXoZzfvW/b2vRKW78KryRKIKfMqgrdO9jpZrwl3kKcqBAVmfEBeC9Vdg61\ntywKMuclcaM3rIWEhLasOWY1Nax85/W6SL1yn3rbCHcaKN9HP+OEmknvp79AxsLz\ncBVoiAAVo+tMZzosDLh/Ogrjnh7w5r7evs/P6FKbuUh0cj3GjET8mk0CZx9CxNji\nvXQyM5Dbybap7tkU321/vGh5Uz5CZT9d3X/n4ohNXoGb3x3iEHvymlMKg4iLH95d\nL7Tv7WIorz28CucXPVkLzbO1MsaEIBZU1EmOnD85VSNhEsooHuD7JAhSlyzD5KJ6\nUwrLg+LFAgMBAAECggEABkbYZD9tx2JSbPaKxQ5OIe9Ehm6p6FhA4+dbq1FKoykr\nhgMzE/qDObA6hQk78c1AEmNOxRmxPifZ1Y38S2AaPa8VqgsgRTQ2R0yVQOgYLPX1\nab8GZTsxqq2sjy4GqkfaUoskHjHowGQCIDd6L8B+/tIEXi/D+OT24zxrGEjmqpq3\n3Nl36aJXhYIbw26k0gy3IRkwZ6Shbc3+vtCncADIyYjD0b1GYSqjsS1RAuoMPbDf\nlXTXuPBtaMdFOb0Fyf2dF99P8MdJPohYBK52DbgKBWG0v9VfPcafs0c36Sfjie2J\nI3HcARQl0WOxRdXaO1A/3matt+YrzLgmrgFHPOwDzwKBgQDx3HrGkX6O6le/8OJf\nutdj9oBuQxPmFiKCSVnoPJYLpk9mFVJjHK3mtcWCzpMMxXWVxFH7NUzmdjqL0JbE\nkOIjsQRbYnnAjOo1kGgcXvZ58OKCQAALcuPKGUBHNBVvUYThz/Fl339bXQb3Mw0R\nqoSluzhC7BYHwg1MnGdPTqb/9wKBgQDdQvceESEsocDE0/4nHFqMyqabnrBhumxH\nReH2rgOVV57IBsFC8ARQ7tKkVKTEWlajYKOgkNPmrQKzCKzzNu/Ng7p2AfIlE3JR\nsyd3ENVKVu1j4kd4pOjQl3+Webm1PCL9wLUU9CaCOLD04w0bA5QMzw9K3XHl3JN7\n1WIxdJc8IwKBgEdHBN/ULQoNQgMNCInR1HxfPwY/unOKfm0LFPX+NPIF90xMaFVR\nNGbTlvuvyWJwJvEWRFrWIG2i1ioyNNyFHkAKgRA1e1AltzhF8Ii768OQHBDqr5iw\nKTV8L5dMYCzIR3MNB0VQkoXoao8benSEXkdBX5lJXky3AZhcV43lzg2NAoGBAMWm\n/Hmvc6MbG8i4V2E4wuriXNLHf2jNz8wbcS+bYzgVfZHR9vKE1lY2AZUqx8VfreVk\nfscAmUqHYtHr/hOGD9HWysqAEn9sT8ML90U1lFNEM+v2R0JOjmtH6oHRW0O65Mcp\nTpnZQE0zt2ALM7neCHMoxNBr4UMlN9p3U7A6Jp9hAoGBAJnoyLALT/s6CBJNUXbv\nkWMgzI9GhHSlOHGQIeKTXtzIX03jdObYRW+L0QhMgRsFsYGhzh9Iq2KPPUUACpE5\npWTkONK4xs7cgSXZeIecsa6n/ciPSmywX7S7Y8Eq6mWsGn0EhLKYKVXlE7q/68AJ\neH6swGFPuBQJUefSgfJikjfO\n-----END PRIVATE KEY-----\n",
+  "client_email": "svc-bigquery-dealroom-access@rising-method-281311.iam.gserviceaccount.com",
+  "client_id": "105815949938679098684",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/svc-bigquery-dealroom-access%40rising-method-281311.iam.gserviceaccount.com"
+}
